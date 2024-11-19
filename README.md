@@ -26,4 +26,5 @@ https://raw.githubusercontent.com/nom_utilisateur/nom_depot/branche/chemin/vers/
     <img src="https://raw.githubusercontent.com/nom_utilisateur/nom_depot/branche/chemin/vers/image.jpg" alt="Image GitHub">
 </body>
 </html>
+<img src="URL_de_l_image" alt="Description"> 
 

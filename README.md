@@ -14,3 +14,16 @@ said benyahya
 </body>
 </html>
 https://raw.githubusercontent.com/nom_utilisateur/nom_depot/branche/chemin/vers/image.jpg
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajouter une Image GitHub</title>
+</head>
+<body>
+    <h1>Voici une image hébergée sur GitHub</h1>
+    <img src="https://raw.githubusercontent.com/nom_utilisateur/nom_depot/branche/chemin/vers/image.jpg" alt="Image GitHub">
+</body>
+</html>
+
